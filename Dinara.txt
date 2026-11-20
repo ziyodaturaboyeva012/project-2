@@ -1,3 +1,8 @@
 Yuladasheva Dinara 6.10.2012
 hello girl 
+<<<<<<< HEAD
 my girl very beautifull
+=======
+
+yes yes i love you it's so easy to say and to do
+>>>>>>> 88be77202f3cb5e5ed595849e792cf5ddd5b5d60
